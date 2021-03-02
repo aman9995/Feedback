@@ -1,0 +1,108 @@
+header{
+    background-color: black;
+    padding: 10px;
+}
+.aaaa{
+    color: blanchedalmond;
+    float:left;
+}
+.aaa{
+    color: blanchedalmond;
+    float: right;
+}
+.aa{
+clear: both;
+}
+.bbbb{
+    border: 2px solid black;
+    height: 500px;
+    width: 100%;
+}
+.bbb{
+    background-image: url(bbc.jpg);
+    float: left;
+    width: 33.95%;
+    height: 100%;
+}
+.bb{
+    background-image: url(bbc.jpg);
+    float: right;
+    width: 66%;
+    height: 100%;
+}
+.bc{
+    text-align: center;
+}
+.b{
+    clear: both;
+}
+.bbbbb{
+    height: 80%;
+    width: 80%;
+    margin-left: 2.5rem;
+    padding: 15px;
+}
+.cccc{
+    background-color: black;
+}
+.ccc{
+    text-align: center;
+    color: blanchedalmond;
+}
+.cc{
+    text-align: center;
+    color: blanchedalmond;
+}
+input[type=suggestion],select{
+    width: 50%;
+    height: 100%;
+    border-radius:4px;
+    box-sizing:border-box;
+    padding-bottom:30px;
+    margin: 5px;
+}
+.eeee{
+    text-align: center;
+    font-size: 180%;
+}
+section{
+    text-shadow: 1px 1px;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+.button1 {
+    background-color: #4CAF50; 
+    color: white; 
+  }
+  
+  .button1:hover {
+    border: 2px solid green;  
+    background-color: white;
+    color: black;
+  }
+  .button2 {
+    background-color: #4CAF50; 
+    color: white; 
+  }
+  
+  .button2:hover {
+    border: 2px solid green;  
+    background-color: white;
+    color: black;
+  }
+  input[type=text]:focus {
+    background-color: rgb(208, 236, 245);
+    padding: 10px;
+  }
+
+  
